@@ -1,0 +1,5 @@
+dados - https://psl.noaa.gov/repository/entry/show?entryid=synth%3Ae570c8f9-ec09-4e89-93b4-babd5651e7a9%3AL25jZXAucmVhbmFseXNpcy5kZXJpdmVkL3N1cmZhY2UvYWlyLm1vbi5tZWFuLm5j
+Read NetCDF - https://towardsdatascience.com/read-netcdf-data-with-python-901f7ff61648
+pyunicorn tutorial - http://www.pik-potsdam.de/~donges/pyunicorn/tutorials/climate_network_1.html
+pyunicorn documentation - http://www.pik-potsdam.de/~donges/pyunicorn/docs/pyunicorn-v0.6.0.post1.pdf
+artigo de inspiração - https://ieeexplore.ieee.org/abstract/document/9042254
